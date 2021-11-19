@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=indiegamemaker&layout=compact&theme=default)](https://github.com/anuraghazra/github-readme-stats)
 
-[](https://www.credly.com/badges/3887fa8b-8dd4-4c1a-ad75-b393146c9a9a/public_url)
+![](https://www.credly.com/badges/3887fa8b-8dd4-4c1a-ad75-b393146c9a9a/public_url)
