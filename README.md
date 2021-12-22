@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- [KCIM 홀로렌즈 강의소스](https://github.com/IndieGameMaker/KcimHololens.git)
 - [절대강좌 유니티 2021 - 리소스 다운로드](https://github.com/IndieGameMaker/UnityBook)
 - [절대강좌 유니티 2021 - 프로젝트 소스](https://github.com/IndieGameMaker/SpaceShooter2021)
 - [절대강좌 유니티 2021 - 오탈자](https://github.com/IndieGameMaker/UnityBook/issues/1)
