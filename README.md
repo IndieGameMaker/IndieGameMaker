@@ -2,7 +2,7 @@
 
 <!--- [Unity Wave 2022 - XR Interaction 트레이닝 세션 안내사항](https://github.com/IndieGameMaker/UnityWave2022) -->
 - [인프런 강좌 - 네트워크 탱크 대전게임](https://github.com/IndieGameMaker/UnityMasterClassTankAttack)
-  ![](https://github.com/IndieGameMaker/UnityMasterClassTankAttack/blob/master/Resources/PhotonPUN_v2.png)
+  <img src="https://github.com/IndieGameMaker/UnityMasterClassTankAttack/blob/master/Resources/PhotonPUN_v2.png" width=50%></img>
   
 - [인프런 강좌 소개 및 리소스 다운로드](https://github.com/IndieGameMaker/UnityMasterClassBeginner)
   
